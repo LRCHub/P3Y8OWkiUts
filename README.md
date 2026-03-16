@@ -1,0 +1,35 @@
+# Led Zeppelin – Immigrant Song
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:08.14] Ah! Ah!
+[00:11.98] Ah! Ah!
+[00:15.48] 
+[00:16.84] We come from the land of the ice and snow
+[00:18.94] From the midnight sun, where the hot springs flow
+[00:43.44] 
+[00:22.19] The hammer of the gods will drive our ships to new land
+[00:28.69] To fight the horde and sing, and cry
+[00:34.16] Valhalla, I am coming
+[00:44.66] 
+[00:42.74] On we sweep with with threshing oar
+[00:46.81] Our only goal will be the western shore
+[01:06.31] 
+[00:55.13] Ah! Ah!
+[00:59.06] Ah! Ah!
+[01:02.56] 
+[01:03.95] We come from the land of the ice and snow
+[01:06.05] From the midnight sun, where the hot springs flow
+[01:30.55] 
+[01:09.00] How soft your fields, so green
+[01:12.36] Can whisper tales of gore
+[01:16.30] Of how we calmed the tides of war
+[01:20.99] We are your overlords
+[01:31.49] 
+[01:30.06] On we sweep with threshing oar
+[01:33.98] Our only goal will be the western shore
+[01:53.48] 
+[01:42.57] So now you'd better stop and rebuild all your ruins
+[01:46.92] For peace and trust can win the day, despite of all your losing
+```
